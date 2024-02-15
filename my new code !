@@ -1,0 +1,6 @@
+# this is  my  new code
+name = input(" What's your name? ")
+age = int(input("How old are you?????"))
+future_age = age + 10
+print("Hello," + name + "! In 10 years, you'll be " +str(future_age) + " years old.")
+
